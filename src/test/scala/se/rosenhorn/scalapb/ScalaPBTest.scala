@@ -1,4 +1,5 @@
-package com.charlesahunt.scalapb
+package se.rosenhorn.scalapb
+
 import java.io.File
 
 import org.scalatest.WordSpec

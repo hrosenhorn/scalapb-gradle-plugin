@@ -1,4 +1,4 @@
-package com.charlesahunt.scalapb
+package se.rosenhorn.scalapb
 
 import java.io.File
 import java.nio.file.Paths

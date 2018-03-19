@@ -1,4 +1,4 @@
-package com.charlesahunt.scalapb
+package se.rosenhorn.scalapb
 
 import org.gradle.api.Plugin
 import org.gradle.api.Project
